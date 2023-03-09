@@ -1,1 +1,3 @@
-this is the reddme in the directory
+0- Where am i?
+prints the absolute path name of the current working directory.
+
